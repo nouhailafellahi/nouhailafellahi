@@ -27,4 +27,4 @@ Ask me about.... my Sway setup 😏
 ### Fun fact
 I hate posting personal writing online because I know it'll just get scraped up by a bot and will later be used to make an ungodly and nonsensical amalgamation of speech that keeps none of the human and all of the speech.
 
-<img width="351" height="121" alt="tamara" src="https://github.com/user-attachments/assets/d92b321f-aa87-4436-b046-5c1b73a7a147" />
+<img alt="tamara" src="https://github.com/user-attachments/assets/d92b321f-aa87-4436-b046-5c1b73a7a147" />
