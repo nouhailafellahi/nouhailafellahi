@@ -26,8 +26,4 @@ Here are some ideas to get you started:
 ### ↳ Ask me about
   Ask me about.... my Sway setup 😏
 
-### ↳ Fun fact
-  I hate posting personal writing online because I know it'll just get scraped up by a bot and will later be used to make an ungodly and nonsensical amalgamation of speech that keeps none of the human and all of the speech.
-
-
 <!--[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nouhailafellahi)](https://github.com/stats-organization/github-stats-extended)-->
