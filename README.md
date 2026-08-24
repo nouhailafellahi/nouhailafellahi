@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Nouhaila, a cyber security student currently based in Ottawa, Canada!
+I'm Nouhaila, a human that's completed 3 out of the 5 years she's dedicated to learning computers academically and professionally. 
 
-### My top 3 (or 4)
-I love shawarmas, drawing really exaggerated portraits, playing and losing at chess, and my favourite thing of all is getting to know people!
+### My top 5
+I love shawarmas, drawing really exaggerated portraits, playing and losing at chess, painting my nails, and my favourite thing of all is getting to know people!
 
 ### Currently...
 I'm currently working on sending out Geekpla.net, which is just a gallery with a background.
