@@ -11,23 +11,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Nouhaila, a human that's completed 3 out of the 5 years she's dedicated to learning computers academically and professionally. 
+  I'm Nouhaila, a human that's completed 3 out of the 5 years she's dedicated to learning computers academically and professionally. 
 
-### My top 5
-I love shawarmas, drawing really exaggerated portraits, playing and losing at chess, painting my nails, and my favourite thing of all is getting to know people!
+### ↳ My top 5
+  I love shawarmas, drawing really exaggerated portraits, playing and losing at chess, painting my nails, and my favourite thing of all is getting to know people!
 
-### Currently...
-I'm currently working on sending out Geekpla.net, which is just a gallery with a background.
+### ↳ Currently...
+  I'm currently working on sending out Geekpla.net, which is just a gallery with a background.
 
-Some things I do because they're needed or they make sense. Other things I build because a voice deep in the abyss that is my soul ushers me to undertake the challenge.
+  Some things I do because they're needed or they make sense. Other things I build because a voice deep in the abyss that is my soul ushers me to undertake the challenge.
 
-<img  width="50%" text-align="center" alt="tamara" src="https://github.com/user-attachments/assets/d92b321f-aa87-4436-b046-5c1b73a7a147" />
+  <img  width="50%" text-align="center" alt="tamara" src="https://github.com/user-attachments/assets/d92b321f-aa87-4436-b046-5c1b73a7a147" />
 
-### AMA
-Ask me about.... my Sway setup 😏
+### ↳ Ask me about
+  Ask me about.... my Sway setup 😏
 
-### Fun fact
-I hate posting personal writing online because I know it'll just get scraped up by a bot and will later be used to make an ungodly and nonsensical amalgamation of speech that keeps none of the human and all of the speech.
+### ↳ Fun fact
+  I hate posting personal writing online because I know it'll just get scraped up by a bot and will later be used to make an ungodly and nonsensical amalgamation of speech that keeps none of the human and all of the speech.
 
 
 <!--[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nouhailafellahi)](https://github.com/stats-organization/github-stats-extended)-->
