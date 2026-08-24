@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 -->
 I'm Nouhaila, a cyber security student currently based in Ottawa, Canada!
 
-# My top 3 (or 4)
+### My top 3 (or 4)
 I love shawarmas, drawing really exaggerated portraits, playing and losing at chess, and my favourite thing of all is getting to know people!
 
-# Currently...
+### Currently...
 I'm currently working on sending out Geekpla.net, which is just a gallery with a background.
 
 Some things I do because they're needed or they make sense. Other things I build because a voice deep in the abyss that is my soul ushers me to undertake the challenge.
 
-# AMA
+### AMA
 Ask me about.... my Sway setup 😏
 
-# Fun fact
+### Fun fact
 I hate posting personal writing online because I know it'll just get scraped up by a bot and will later be used to make an ungodly and nonsensical amalgamation of speech that keeps none of the human and all of the speech.
