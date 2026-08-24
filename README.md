@@ -21,7 +21,7 @@ I'm currently working on sending out Geekpla.net, which is just a gallery with a
 
 Some things I do because they're needed or they make sense. Other things I build because a voice deep in the abyss that is my soul ushers me to undertake the challenge.
 
-## <img  width="50%" text-align="center" alt="tamara" src="https://github.com/user-attachments/assets/d92b321f-aa87-4436-b046-5c1b73a7a147" />
+<img  width="50%" text-align="center" alt="tamara" src="https://github.com/user-attachments/assets/d92b321f-aa87-4436-b046-5c1b73a7a147" />
 
 ### AMA
 Ask me about.... my Sway setup 😏
