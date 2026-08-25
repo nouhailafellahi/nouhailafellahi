@@ -22,9 +22,11 @@ I'm currently working on sending out Geekpla.net, which is just a gallery with a
   Some things I do because they're needed or they make sense. Other things I build because a voice deep in the abyss that is my soul ushers me to undertake the challenge.
 
   <img  width="50%" text-align="center" alt="tamara" src="https://github.com/user-attachments/assets/d92b321f-aa87-4436-b046-5c1b73a7a147" />
-  
+### ls ~/toolbox
+
+
 ### $ jobs -s
-Previous 'things' I've worked on include, but are not limited to, a library management system in C++ and Qt, a GUI replica of Conway's Game of Life in GoLang, and a few web pages for various reasons LOL
+Previous 'things' I've worked on include, but are not limited to, a library management system in C++ and Qt, a GUI replica of Conway's Game of Life in GoLang, implementing a network-wide ad-blocker, a self-hosted media ecosystem which included a music, streaming, and miscellaneous media server, and a few web pages for various reasons LOL
 
 ### ↳ Ask me about
   My desktop Sway setup 😏
