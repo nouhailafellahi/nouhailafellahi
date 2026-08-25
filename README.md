@@ -16,14 +16,17 @@ Here are some ideas to get you started:
 ### $ cat about.md
   I love shawarmas, drawing really exaggerated portraits, playing and losing at chess, painting my nails, and my favourite thing of all is getting to know people!
 
-### ↳ Currently...
-  I'm currently working on sending out Geekpla.net, which is just a gallery with a background.
+### $ jobs -r
+I'm currently working on sending out Geekpla.net, which is just a gallery with a background.
 
   Some things I do because they're needed or they make sense. Other things I build because a voice deep in the abyss that is my soul ushers me to undertake the challenge.
 
   <img  width="50%" text-align="center" alt="tamara" src="https://github.com/user-attachments/assets/d92b321f-aa87-4436-b046-5c1b73a7a147" />
+  
+### $ jobs -s
+Previous 'things' I've worked on include, but are not limited to, a library management system in C++ and Qt, a GUI replica of Conway's Game of Life in GoLang, and a few web pages for various reasons LOL
 
 ### ↳ Ask me about
-  Ask me about.... my Sway setup 😏
+  My desktop Sway setup 😏
 
 <!--[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nouhailafellahi)](https://github.com/stats-organization/github-stats-extended)-->
