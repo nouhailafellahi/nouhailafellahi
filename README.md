@@ -1,4 +1,4 @@
-# Hey!
+# $ whoami
 <!--
 **nouhailafellahi/nouhailafellahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
   I'm Nouhaila, a human that's completed 3 out of the 5 years she's dedicated to learning computers academically and professionally. 
 
-### ↳ My top 5
+### $ cat about.md
   I love shawarmas, drawing really exaggerated portraits, playing and losing at chess, painting my nails, and my favourite thing of all is getting to know people!
 
 ### ↳ Currently...
