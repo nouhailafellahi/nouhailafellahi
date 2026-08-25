@@ -24,9 +24,10 @@ I'm currently working on sending out Geekpla.net, which is just a gallery with a
 
 
 ### ls -l ~/toolbox
--rw-r--r--. 1 nouhaila nouha  100 Aug  24  2026 **Hopes**
--rw-r--r--. 1 nouhaila nouha  100 Aug  24  2026 **Prayers**
 
+  ```-rw-r--r--. 1 nouhaila nouha  100 Aug  24  2026 **Hopes**
+  ```-rw-r--r--. 1 nouhaila nouha  100 Aug  24  2026 **Prayers**
+```
 ### $ jobs -s
 Previous 'things' I've worked on include, but are not limited to, a library management system in C++ and Qt, a GUI replica of Conway's Game of Life in GoLang, implementing a network-wide ad-blocker, a self-hosted media ecosystem which included a music, streaming, and miscellaneous media server, and a few web pages for various reasons LOL
 
